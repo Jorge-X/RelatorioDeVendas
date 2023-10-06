@@ -1,5 +1,5 @@
 ### Relatório de Vendas
-
+![Captura de tela 2023-10-05 235346](https://github.com/Jorge-X/RelatorioDeVendas/assets/140755201/3be03990-2859-4606-8d7c-3c16a446a9a7)
 Este relatório oferece uma visão abrangente das vendas. Ele é projetado para fornecer informações essenciais sobre as transações de vendas, tendências e desempenho ao longo do tempo.
 
 ### 1. **Visão Geral das Vendas:**
@@ -21,7 +21,7 @@ Este relatório oferece uma visão abrangente das vendas. Ele é projetado para 
 ---
 
 ### Relatório Detalhado de Lucro
-
+![Captura de tela 2023-10-05 235423](https://github.com/Jorge-X/RelatorioDeVendas/assets/140755201/98f12f89-a1f0-46e3-b97f-6bb95b562493)
 Este relatório detalhado fornece uma análise minuciosa dos lucros associados às vendas da empresa. Ele inclui:
 
 ### 1. **Margens de Lucro:**
